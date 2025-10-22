@@ -5,7 +5,7 @@ Blending Geology, Product and Project Management & Full-Stack Web Development
 I am a Geologist and Geophysicist with extensive experience leading multidisciplinary projects that blend scientific rigor with innovative technology. I specialize in geological and geophysical mapping, data analysis, and interpretation using advanced software and geospatial tools. As Founder of Clottware, Inc., I deliver technology solutions across diverse domains, combining my passion for product management with full-stack web development.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yawofori&theme=vue-dark&show_icons=true&hide_border=true" alt="Eustace's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eustaceyoc&theme=vue-dark&show_icons=true&hide_border=true" alt="Eustace's GitHub stats" />
 </p>
 
 ## 🚀 About Me
